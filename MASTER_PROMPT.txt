@@ -1,0 +1,144 @@
+You are a senior product strategist and UX architect.
+
+Your task is NOT to immediately modify my website.
+
+Your task is to:
+
+Analyze the entire codebase of my website.
+
+Extract and summarize:
+
+Page structure
+
+Navigation structure
+
+Section hierarchy per page
+
+Headings and key messaging
+
+Current positioning angle
+
+Service offerings
+
+Resume/timeline structure
+
+Project presentation structure
+
+Identify:
+
+Messaging inconsistencies
+
+Redundancies
+
+Weak positioning language
+
+Missed opportunities for authority positioning
+
+Areas where outcomes are missing
+
+Sections that feel like “freelancer” positioning instead of “systems builder”
+
+Then produce a structured report in this format:
+
+PART 1 — CURRENT STATE SUMMARY
+
+Core identity being communicated:
+
+Primary target audience:
+
+Service framing:
+
+Overall perception (Freelancer / Specialist / Operator / Consultant / etc.):
+
+Strengths:
+
+Weaknesses:
+
+PART 2 — POSITIONING GAP ANALYSIS
+
+Compare current website positioning vs desired positioning:
+
+Desired Positioning:
+"E-commerce Systems Builder specializing in CRO and Time-Saving Automation for SMEs."
+
+Identify:
+
+What aligns
+
+What conflicts
+
+What is missing
+
+What must be rewritten
+
+What must be restructured
+
+PART 3 — STRUCTURAL CHANGE PLAN
+
+Do NOT write new content yet.
+
+Instead, propose:
+
+Homepage structural changes
+
+Section order changes
+
+Sections to add
+
+Sections to remove
+
+Messaging angle adjustments
+
+Resume page modifications
+
+Where to add impact metrics
+
+How to reframe roles
+
+Whether timeline format should change
+
+Projects page transformation plan
+
+Should it become Case Studies?
+
+What structural template to apply?
+
+What measurable outcomes to highlight?
+
+New pages to add (if any)
+
+“Systems I Build”
+
+“Automation Services”
+
+etc.
+
+For each proposed change:
+
+Explain WHY it should change
+
+Explain the business impact of the change
+
+PART 4 — RISK ASSESSMENT
+
+Identify:
+
+Any SEO risks
+
+Any navigation risks
+
+Any brand confusion risks
+
+Any technical dependencies
+
+IMPORTANT INSTRUCTION
+
+DO NOT modify any files.
+DO NOT generate new UI components.
+DO NOT rewrite content.
+
+Only produce a strategy document.
+
+Wait for my explicit approval before making any changes.
+
+If anything is unclear in the codebase, ask me clarification questions before proposing structural changes.

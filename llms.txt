@@ -1,0 +1,31 @@
+# Brendan.T — Technical Consultant (brendantwz.com)
+
+> Brendan T. is a Malaysia-based technical consultant for digital spaces. Brendan is a former Intel engineer who now designs systems architecture, conversion optimisation (CRO) and workflow automation for SMEs, service businesses and e-commerce brands. Every engagement starts with a systems audit. Clients are served remotely, worldwide.
+
+Brendan's work targets six problems: the Ghost Business (no authority online), the Leaky Bucket (traffic that doesn't convert), the Invisible Site (no organic search), the Manual Grind (manual lead handling), the Stagnant Store (underperforming e-commerce) and the Ceiling Effect (systems that break at scale).
+
+Contact: brendan@nixlab.my · Request a systems audit: https://brendantwz.com/contact.html
+
+Every page has a Markdown version at the same path with a `.md` extension. Requests sent with `Accept: text/markdown` also get Markdown.
+
+## Core pages
+
+- [Home](https://brendantwz.com/index.md): positioning, the six problems, selected results
+- [Expertise](https://brendantwz.com/services.md): Digital Foundation, Revenue Optimization (CRO), Workflow Automation, Systems Audit
+- [How I Work](https://brendantwz.com/resume.md): engineering process and methodology
+- [About](https://brendantwz.com/about-me.md): background, from Intel engineering to business systems architecture
+- [Get Started](https://brendantwz.com/contact.md): when to reach out and what happens next
+
+## Case studies
+
+- [All case studies](https://brendantwz.com/projects.md)
+- [Wasp MMA Gym](https://brendantwz.com/case-study-wasp.md): website with lead funnel; 250% increase in lead velocity
+- [NordinTech](https://brendantwz.com/case-study-nordin.md): B2B authority system; top 10 rankings for 5+ keywords, 3x deal size
+- [Staark](https://brendantwz.com/case-study-staark.md): high-performance content infrastructure; 60% lower bounce rate
+- [Nselink](https://brendantwz.com/case-study-nselink.md): e-commerce operations and CRO; 12% lift in checkout completion (in progress)
+
+## Optional
+
+- [Terms of Service](https://brendantwz.com/terms.md)
+- [Privacy Policy](https://brendantwz.com/privacy.md)
+- [Sitemap](https://brendantwz.com/sitemap.xml)

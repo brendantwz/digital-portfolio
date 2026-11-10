@@ -1,5 +1,7 @@
-# https://www.robotstxt.org/robotstxt.html
+# Crawl policy for brendantwz.com
+# Content signals: https://contentsignals.org/
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=no
 Allow: /
 
-Sitemap: https://brendantwz.github.io/digital-portfolio/sitemap.xml
+Sitemap: https://brendantwz.com/sitemap.xml

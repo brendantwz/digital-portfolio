@@ -1,0 +1,30 @@
+# ---------------------------------------------------------------
+# Agent-readiness rules for brendantwz.com (Hostinger / LiteSpeed)
+# Merge into any existing public_html/.htaccess - do not replace it.
+# ---------------------------------------------------------------
+
+<IfModule mod_mime.c>
+    AddType "text/markdown; charset=utf-8" .md
+    AddType "text/plain; charset=utf-8" .txt
+</IfModule>
+
+# Serve the Markdown twin of a page when an agent sends Accept: text/markdown
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+    RewriteRule ^$ index.md [L]
+
+    RewriteCond %{HTTP_ACCEPT} text/markdown [NC]
+    RewriteCond %{DOCUMENT_ROOT}/$1.md -f
+    RewriteRule ^(.+)\.html$ $1.md [L]
+</IfModule>
+
+<IfModule mod_headers.c>
+    # Responses differ by Accept header, so caches must key on it
+    Header append Vary Accept
+
+    # RFC 8288 Link header on the homepage pointing at llms.txt and the Markdown alternate
+    SetEnvIf Request_URI "^/(index\.html)?$" HOME_PAGE
+    Header set Link "</llms.txt>; rel=\"describedby\"; type=\"text/plain\", </index.md>; rel=\"alternate\"; type=\"text/markdown\"" env=HOME_PAGE
+</IfModule>
